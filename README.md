@@ -5,7 +5,10 @@ Main product display page clone based off Lululemon.com
 Fork and clone repo(s)
 
 # Install dependencies
-npm install
+Run this command in your terminal to install dependencies that are needed to run the application
+<ul>
+	<li>npm install</li>
+</ul>
 
 # Start up the microservice
 Run these commands to build the bundle, seed the database, and to start the server
